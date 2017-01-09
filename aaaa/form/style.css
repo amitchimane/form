@@ -1,0 +1,48 @@
+.name-size{
+	size: 40px;
+}
+.name-box-size{
+	padding left:  30px !important;
+	padding-right: 50px !important;
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+input{
+	height: 50PX !important;
+	width: 500px !important;
+	background-color: green;
+
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-align: start;
+
+}
+input,input[placeholder]{
+	text-align: center !important;
+	font-size: 20px;
+
+}
+
+.main-div-size
+{
+	padding: 50px !important;
+}
+option{
+	font-weight: normal;    
+    max-height: 50px;
+    min-width: 500px;
+    padding: 0px 2px 1px;
+    font-size: 20px;
+}
+select{
+	height:  50px !important;
+	min-width: 500px !important;
+	
+}
+
+button{
+		height: 50PX !important;
+		width: 200px !important;
+		
+		
+}
